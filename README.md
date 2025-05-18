@@ -1,0 +1,13 @@
+# SQL Assessment Solutions
+
+## Question 1: High-Value Customers
+Identified customers with both savings and investment accounts...
+
+## Question 2: Transaction Frequency
+Categorized customers based on monthly transaction activity...
+
+## Question 3: Account Inactivity
+Flagged accounts with no transactions in over 365 days...
+
+## Question 4: CLV Estimation
+Calculated customer lifetime value based on tenure and transactions...
